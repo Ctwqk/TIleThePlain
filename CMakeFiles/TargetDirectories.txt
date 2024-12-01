@@ -1,0 +1,3 @@
+/home/taiwei/cg/Assignment3/code_part/CMakeFiles/main.dir
+/home/taiwei/cg/Assignment3/code_part/CMakeFiles/edit_cache.dir
+/home/taiwei/cg/Assignment3/code_part/CMakeFiles/rebuild_cache.dir

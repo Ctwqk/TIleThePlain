@@ -1,0 +1,3 @@
+/home/taiwei/cg/Assignment3/code_part/HW3_data/HW3_data/cmake-build-debug/CMakeFiles/main.dir
+/home/taiwei/cg/Assignment3/code_part/HW3_data/HW3_data/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/taiwei/cg/Assignment3/code_part/HW3_data/HW3_data/cmake-build-debug/CMakeFiles/rebuild_cache.dir
